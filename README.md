@@ -1,10 +1,6 @@
-Youtube Link for Demonstration and Youtbe Link - https://youtu.be/lR0kD2sAB0A
+Youtube Link for Demonstration and UI/UX Design - https://youtu.be/lR0kD2sAB0A
 
-
-
-
-
-
+  
 
 # Getting Started with Create React App
 
